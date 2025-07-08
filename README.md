@@ -15,4 +15,6 @@ A little introduction about myself. My name is Aaron and I am currently at stude
 <li style="float: left;"><a href="https://www.jetbrains.com/pycharm/" target="_blank" style="margin: 0px; padding: 10px;" alt="PyCharm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width=30px /></a></li>
 </ul>
 
+* This came out a little broken... Sorry :< *
+
 [mjc]: https://mjc.edu
