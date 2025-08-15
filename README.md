@@ -9,7 +9,7 @@ Hello, my name is Aaron. I am a student at <a href="https://www.mjc.edu" target=
  - Java
  - Javascript
  - Python
-### contact
+### Contact
 
 *For contacting me please reach out to me through my email!*
 <ul>
